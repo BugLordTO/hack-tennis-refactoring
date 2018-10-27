@@ -4,7 +4,7 @@ using Xunit;
 
 namespace Hack.Lib.Tests
 {
-    public class UnitTest1
+    public class TennisGameTest
     {
         [Fact]
         public void CheckTennisGame1()
